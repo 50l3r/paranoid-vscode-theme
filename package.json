@@ -1,0 +1,28 @@
+{
+    "name": "theme-paranoid",
+    "displayName": "Theme - Monokai Paranoid",
+    "description": "Paranoid VSCode Theme",
+    "version": "0.0.1",
+    "publisher": "50l3r",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "images/icon.png",
+    "homepage": "https://github.com/50l3r/paranoid-vscode-theme/blob/master/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/50l3r/paranoid-vscode-theme.git"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Paranoid",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Paranoid-color-theme.json"
+            }
+        ]
+    }
+}
