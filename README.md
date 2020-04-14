@@ -1,4 +1,4 @@
-# Seti Monokai color scheme
+# Monokai Paranoid color scheme
 
 Paranoid VSCode Theme is based on a Windows10 theme called Paranoid and design by [@nivvu](https://www.deviantart.com/niivu): https://www.deviantart.com/niivu/art/Paranoid-Android-Windows-10-Themes-821696974
 
@@ -7,11 +7,11 @@ Keep your eyes healthy 😉
 ## Screenshots
 ![](https://i.gyazo.com/ca231d7f4f313034e31b713836dad7a8.png)
 
-![](https://github.com/50l3r/paranoid-vscode-theme/blob/master/images/html.png?raw=true).
+![](https://github.com/50l3r/paranoid-vscode-theme/blob/master/images/html.png?raw=true)
 
-![](https://github.com/50l3r/paranoid-vscode-theme/blob/master/images/js.png?raw=true).
+![](https://github.com/50l3r/paranoid-vscode-theme/blob/master/images/js.png?raw=true)
 
-![](https://github.com/50l3r/paranoid-vscode-theme/blob/master/images/scss.png?raw=true).
+![](https://github.com/50l3r/paranoid-vscode-theme/blob/master/images/scss.png?raw=true)
 
 ## Full Paranoid Desktop Design
 

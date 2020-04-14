@@ -2,7 +2,7 @@
     "name": "theme-paranoid",
     "displayName": "Theme - Monokai Paranoid",
     "description": "Paranoid VSCode Theme",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "50l3r",
     "engines": {
         "vscode": "^1.44.0"
