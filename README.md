@@ -5,7 +5,7 @@ Paranoid VSCode Theme is based on a Windows10 theme called Paranoid and design b
 Keep your eyes healthy 😉
 
 ## Screenshots
-![](https://i.gyazo.com/ca231d7f4f313034e31b713836dad7a8.png)
+![](https://i.gyazo.com/54eaa850ceb9325d1162b3f5070478d0.png)
 
 ![](https://github.com/50l3r/paranoid-vscode-theme/blob/master/images/html.png?raw=true)
 

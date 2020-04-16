@@ -1,23 +1,41 @@
 {
 	"name": "Paranoid",
+	// https://code.visualstudio.com/api/references/theme-color
 	"colors": {
-		"sideBarTitle.foreground": "#fff",
-		"activityBarBadge.background": "#141621",
+		// HEADER
+		"titleBar.activeBackground": "#141621",
+
+		// EDITOR
 		"editor.background": "#141621",
-		"sideBarSectionHeader.background": "#141621",
-		"titleBar.activeBackground": "#181b28",
-		"sideBar.background": "#181b28",
+		"editorLineNumber.foreground": "#404453",
 		"editorGroupHeader.tabsBackground": "#181b28",
-		"tab.inactiveBackground": "#181b28",
+		"editor.selectionBackground": "#303442",
+		"editorWidget.background":"#141621",
+
+		// SIDEBAR
+		"sideBarTitle.foreground": "#fff",
+		"sideBar.background": "#181b28",
+		"sideBarSectionHeader.background": "#1d2131",
+		"sideBarSectionHeader.border": "#141621",
+
 		// FORMS
 		"input.background": "#181b28",
 		"input.border": "#1e2229",
 		"dropdown.border": "#1e2229",
 		"dropdown.background": "#181b28",
 		"settings.dropdownBackground": "#181b28",
-		// OTHER
+
+		// ACTIVITY BAR
+		"activityBar.background": "#1d2131",
+		"activityBarBadge.background": "#ff007a",
+		"activityBarBadge.foreground": "#fff",
+		"activityBar.foreground": "#ff007a",
+
+		// STATUSBAR
 		"statusBar.background": "#ff007a",
-		//TABS
+
+		// TABS
+		"tab.inactiveBackground": "#181b28",
 		"tab.activeBorderTop": "#ff007a",
 		"tab.inactiveModifiedBorder": "#f3d56e",
 		"tab.activeModifiedBorder": "#ff007a",
